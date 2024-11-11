@@ -1,33 +1,33 @@
 /* IMPORT FONTS */
-@import url(/ASSETS/adriell/Adriell-Black.otf);
-@import url(/ASSETS/adriell/Adriell-Bold.otf);
-@import url(/ASSETS/adriell/Adriell-Medium.otf);
-@import url(/ASSETS/adriell/Adriell-Outline.otf);
-@import url(/ASSETS/adriell/Adriell-Regular.otf);
+@import url(adriell/Adriell-Black.otf);
+@import url(adriell/Adriell-Bold.otf);
+@import url(adriell/Adriell-Medium.otf);
+@import url(adriell/Adriell-Outline.otf);
+@import url(adriell/Adriell-Regular.otf);
 
 @font-face {
   font-family: adriel-black;
-  src: url('/ASSETS/adriell/Adriell-Black.otf');
+  src: url('adriell/Adriell-Black.otf');
 }
 
 @font-face {
   font-family: adriel-bold;
-  src: url('/ASSETS/adriell/Adriell-Bold.otf');
+  src: url('adriell/Adriell-Bold.otf');
 }
 
 @font-face {
   font-family: adriel-outline;
-  src: url('/ASSETS/adriell/Adriell-Outline.otf');
+  src: url('adriell/Adriell-Outline.otf');
 }
 
 @font-face {
   font-family: adriel-medium;
-  src: url('/ASSETS/adriell/Adriell-Medium.otf');
+  src: url('adriell/Adriell-Medium.otf');
 }
 
 @font-face {
   font-family: adriel-reg;
-  src: url('/ASSETS/adriell/Adriell-Regular.otf');
+  src: url('adriell/Adriell-Regular.otf');
 }
 
 /* FONT CODE */
