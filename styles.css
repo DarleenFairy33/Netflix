@@ -1,0 +1,171 @@
+/* IMPORT FONTS */
+@import url(/ASSETS/adriell/Adriell-Black.otf);
+@import url(/ASSETS/adriell/Adriell-Bold.otf);
+@import url(/ASSETS/adriell/Adriell-Medium.otf);
+@import url(/ASSETS/adriell/Adriell-Outline.otf);
+@import url(/ASSETS/adriell/Adriell-Regular.otf);
+
+@font-face {
+  font-family: adriel-black;
+  src: url('/ASSETS/adriell/Adriell-Black.otf');
+}
+
+@font-face {
+  font-family: adriel-bold;
+  src: url('/ASSETS/adriell/Adriell-Bold.otf');
+}
+
+@font-face {
+  font-family: adriel-outline;
+  src: url('/ASSETS/adriell/Adriell-Outline.otf');
+}
+
+@font-face {
+  font-family: adriel-medium;
+  src: url('/ASSETS/adriell/Adriell-Medium.otf');
+}
+
+@font-face {
+  font-family: adriel-reg;
+  src: url('/ASSETS/adriell/Adriell-Regular.otf');
+}
+
+/* FONT CODE */
+h1, h2, h3{
+  font-family: adriel-bold;
+}
+
+h4, h5{
+  font-family: adriel-medium;
+}
+
+h6{
+  font-family: adriel-reg;
+}
+
+/* CODE */
+body{
+  background-color: rgb(20,20,20);
+}
+
+header{
+  font-size: large;
+  color: red;
+}
+
+a{
+  color: white;
+  font-family: adriel-medium;
+  text-decoration: none;
+}
+
+.pfp{
+  display: block;
+  margin-left: 95%;
+  width: auto;
+}
+
+.container{
+  display: flex;
+  align-items: left;
+}
+
+.text{
+  font-size: medium;
+}
+
+.CONTAINER2{
+  display: flex;
+  align-items: right;
+  justify-content: right;
+  padding-right: 15px;
+}
+
+.pfp{
+  padding-right: 15px;
+}
+
+.pfptxt{
+  color: white;
+  font-family: adriel-reg;
+  text-align: right;
+  font-size: 12px;
+}
+
+.TRAILERS{
+  color: red;
+}
+
+.TRAILERS IMG{
+  padding-left: 2.5%;
+}
+
+.CONTAINER3{
+  display: flex;
+  align-items: left;
+  justify-content: left;
+  padding-left: 2.5%;
+}
+
+.KGE{
+  padding-right: 15px;
+}
+
+.TDLoSK{
+  padding-right: 15px;
+}
+
+.tLL{
+  padding-right: 15px;
+}
+
+.tCCp2{
+  padding-right: 15px;
+}
+
+.CONTINUEWATCHING{
+  color: red;
+}
+
+nav{
+  background-color: black;
+  padding-left: 1%;
+  padding-top: 2.5%;
+  padding-bottom: 0%;
+}
+
+nav a{
+  color: white;
+  font-family: adriel-medium;
+  text-decoration: none;
+}
+
+.PROFILES{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.PROF1{
+  padding-right: 15px;
+  color: white;
+  text-align: center;
+}
+
+.PROF2{
+  padding-right: 15px;
+  color: white;
+  text-align: center;
+}
+
+.PROF3{
+  padding-right: 15px;
+  color: white;
+  text-align: center;
+}
+
+.PROF4{
+  padding-right: 15px;
+  color: white;
+  text-align: center;
+}
