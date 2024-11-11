@@ -1,33 +1,33 @@
 /* IMPORT FONTS */
-@import url(adriell/Adriell-Black.otf);
-@import url(adriell/Adriell-Bold.otf);
-@import url(adriell/Adriell-Medium.otf);
-@import url(adriell/Adriell-Outline.otf);
-@import url(adriell/Adriell-Regular.otf);
+@import url(Adriell-Black.otf);
+@import url(Adriell-Bold.otf);
+@import url(Adriell-Medium.otf);
+@import url(Adriell-Outline.otf);
+@import url(Adriell-Regular.otf);
 
 @font-face {
   font-family: adriel-black;
-  src: url('adriell/Adriell-Black.otf');
+  src: url('Adriell-Black.otf');
 }
 
 @font-face {
   font-family: adriel-bold;
-  src: url('adriell/Adriell-Bold.otf');
+  src: url('Adriell-Bold.otf');
 }
 
 @font-face {
   font-family: adriel-outline;
-  src: url('adriell/Adriell-Outline.otf');
+  src: url('Adriell-Outline.otf');
 }
 
 @font-face {
   font-family: adriel-medium;
-  src: url('adriell/Adriell-Medium.otf');
+  src: url('Adriell-Medium.otf');
 }
 
 @font-face {
   font-family: adriel-reg;
-  src: url('adriell/Adriell-Regular.otf');
+  src: url('Adriell-Regular.otf');
 }
 
 /* FONT CODE */
